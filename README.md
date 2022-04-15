@@ -1,2 +1,2 @@
 # LEMP
-LEMP server with wordpress blog on Ubuntu
+LEMP server with wordpress blog on Ubuntu or Centos
